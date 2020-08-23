@@ -1,18 +1,4 @@
-lsjfslsfjslfjslfsjfs
-fs
-fs
-f
-sfsfs
-ff
-s
-fs
-f
-sf
-s
-fs
-f
-s
-fs
-fs
-f
-sf
+public class CartFunc
+{
+	public static void main()
+}
